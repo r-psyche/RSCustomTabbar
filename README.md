@@ -1,2 +1,2 @@
 # RSCustomTabbar
-swift custom tabor
+swift custom tabbar
