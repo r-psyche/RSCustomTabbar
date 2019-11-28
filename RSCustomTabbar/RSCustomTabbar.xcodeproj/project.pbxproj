@@ -12,6 +12,8 @@
 		EE462824238D97F00088E4B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE462822238D97F00088E4B9 /* Main.storyboard */; };
 		EE462826238D97F20088E4B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE462825238D97F20088E4B9 /* Assets.xcassets */; };
 		EE462829238D97F20088E4B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE462827238D97F20088E4B9 /* LaunchScreen.storyboard */; };
+		EE462831238E6A580088E4B9 /* RSCustomTabbarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE462830238E6A580088E4B9 /* RSCustomTabbarController.swift */; };
+		EE462833238F6E1D0088E4B9 /* RSTabbarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE462832238F6E1D0088E4B9 /* RSTabbarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		EE462825238D97F20088E4B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE462828238D97F20088E4B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE46282A238D97F20088E4B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE462830238E6A580088E4B9 /* RSCustomTabbarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSCustomTabbarController.swift; sourceTree = "<group>"; };
+		EE462832238F6E1D0088E4B9 /* RSTabbarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSTabbarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				EE462825238D97F20088E4B9 /* Assets.xcassets */,
 				EE462827238D97F20088E4B9 /* LaunchScreen.storyboard */,
 				EE46282A238D97F20088E4B9 /* Info.plist */,
+				EE462830238E6A580088E4B9 /* RSCustomTabbarController.swift */,
+				EE462832238F6E1D0088E4B9 /* RSTabbarView.swift */,
 			);
 			path = RSCustomTabbar;
 			sourceTree = "<group>";
@@ -135,6 +141,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE462831238E6A580088E4B9 /* RSCustomTabbarController.swift in Sources */,
+				EE462833238F6E1D0088E4B9 /* RSTabbarView.swift in Sources */,
 				EE462821238D97F00088E4B9 /* ViewController.swift in Sources */,
 				EE46281F238D97F00088E4B9 /* AppDelegate.swift in Sources */,
 			);
